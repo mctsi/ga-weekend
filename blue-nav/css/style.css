@@ -14,8 +14,8 @@
 
 body {
 	background-image: url('../images/bg-gradient.jpg');
-	background-repeat: repeat;
-}
+	background-repeat: no-repeat;
+	background-size: cover; }
 
 
 /*****************************/		
