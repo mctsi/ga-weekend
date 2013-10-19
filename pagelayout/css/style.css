@@ -1,0 +1,36 @@
+body {
+	background-image:url('../images/pattern1.png');
+	
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+
+#container {
+	width:80%;
+	margin:0 auto;
+	color: black;
+	background-color:white;
+	
+}
+
+h1 {color: white;
+background-color: orangeRed;
+padding: 3px;}
+
+h2 {background-color: white;
+	color: black;
+	padding: 5px;}
+	
+p {margin-left: 5em;}
+
+	
+footer {color: white;
+	background-color: orangeRed;
+	padding: 5px;
+	font-size: 0.9em;}

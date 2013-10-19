@@ -1,0 +1,26 @@
+
+
+/*****************************/		
+/*        GENERAL             *
+/*****************************/	
+
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;
+	color: black;
+}
+
+body {
+	background-image: url('../images/bg-gradient.jpg');
+	background-repeat: repeat;
+}
+
+
+/*****************************/		
+/*  CSS SPRITE NAVIGATION     *
+/*****************************/	
+	
+
+	

@@ -1,0 +1,53 @@
+/* 
+
+Project Name: PINK MARTINI 
+Client: PINK MARTINI
+Author: Chris Castiglione | www.twitter.com/castig 
+Developed @ General Assembly in NYC
+
+*/
+
+body {
+	/* set up a background image */
+	background-image: url('../images/pink-martini.jpeg');
+	
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {background-color: lightYellow;
+	width: 400px;
+	padding: 20px;
+	}
+
+.index, .discography {
+	color: red;
+}	
+
+.index a {color:white;}
+	
+}
+
+.about {
+	color: white;
+}
+
+.about h1 {
+	color:red;
+}
+	
+h1 {	font-size: 6em;
+	margin: 0;}
+	
+h2 {	background-color: black;
+	padding: 3px;
+	border-radius: 4px;
+	color: black;
+	font-size: 1.7em;}
+	
+a {color: red;}
